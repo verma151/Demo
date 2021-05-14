@@ -1,0 +1,38 @@
+A hotel reservations system is an extremely valuable piece of technology for your hotel, should you choose to install it.
+
+This system will help you schedule the dates and length of stay for guests, allowing them to choose their rooms at time of booking and take payments from them. On the more advanced scale it can even be setup to allow guests to choose extras and other add-ons.
+
+What are the main benefits of having a hotel reservations system?
+There’s a range of benefits to having this technology in place at your hotel, mostly based around simplifying your life as a manager or staff member and speeding up a number of processes. They include:
+
+No need for the front desk staff to process reservations – when guests can input their own reservation details through the systems everything happens automatically and your staff don’t need to worry.
+With guests inputting their own details there’s less chance of the wrong data being entered. If something does go wrong you’ll have a record to prove it wasn’t your fault.
+A large amount of guest data can be captured by these systems, allowing you to improve both marketing and guest service
+Better management and tracking of rewarding guests for their loyalty
+There’s a range of benefits to having this technology in place at your hotel, mostly based around simplifying your life as a manager
+
+CLICK TO TWEET 
+
+The essential features a hotel reservations system should have
+There is a number of basic requirements every good reservations system should have, both functional and non-functional. They include:
+
+Functional
+
+Associate every online booking with an account
+Limit every account to a single user
+Enable users to search and find the most relevant booking options
+Accept date and time to check available rooms for that particular time
+Booking confirmation should be sent to the specified contact details
+Calculate and display accommodation charges and other utilities
+Cancel bookings
+Display and change records of guests
+Change rooms
+Non-functional
+
+Use encryption to avoid bots from booking
+Search results should populate within acceptable time limits
+Users should be helped appropriately to fill in the mandatory fields, in case of invalid input
+System should accept payments via various payment methods
+Easy to use, efficient, and accessible
+Keep track of documentation, activities, and responses
+The main point to remember is that this technology enables guests to choose and book their own rooms online via secure portal. It must be straightforward and safe, but it must also offer you the same convenience and range of use it does your guests. This way, it won’t only make life easier but you can use the data it provides to source more revenue and profit for your hotel.
